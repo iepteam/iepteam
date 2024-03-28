@@ -22,9 +22,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgur.com/EfMc3AI"  />
-</div>
+<img align="right" height="189" src="https://imgur.com/EfMc3AI.png"  />
 
 ###
 
