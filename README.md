@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋 this is page its for the bots for the Italian eSPORTS Platform</h1>
+<h1 align="left">Hi👋 this is page its for the bots for the Italian Esports Platform</h1>
 
 ###
 
