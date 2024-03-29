@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋 this is page its for the bots for the Italian Esports Platform</h1>
+<h1 align="left">Hi👋 this is page its for the bots for the Italian eSPORTS Platform</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="center">I.E.P Team<br>CEO:<br>rhagee<br><br>Founder:<br>elio.bohnonloso <br><br>Developer of bots:<br>elio.bohnonloso<br><br>Graphic Designer:<br>Shokkino</p>
+<p align="center">I.E.P Team<br>CEO:<br>rhagee<br><br>Founder:<br>elio.bohnonloso <br><br>Developer of bots:<br>elio.bohnonloso<br><br>Graphic Designer:<br>Shokkino<br><br><br><br><br>Available bots:<br>I.E.P ModMail [Coded by Elio]<br>I.E.P Report [Coded by Elio]</p>
 
 ###
 
@@ -35,5 +35,13 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="59" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
